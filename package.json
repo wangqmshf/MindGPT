@@ -1,0 +1,21 @@
+{
+  "name": "MindGPT",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "markmap-common": "^0.14.2",
+    "markmap-lib": "^0.14.4",
+    "markmap-view": "^0.14.4",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
